@@ -1,4 +1,4 @@
-<h1>Avoid ssh connection to **hang**</h1>
+<h1>Avoid ssh connection to hang</h1>
 <h3>On server side execute commands:</h3>
 <ol>
     <li>sudo vi /etc/ssh/sshd_config</li>
